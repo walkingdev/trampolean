@@ -1,6 +1,6 @@
 ---
 title: Immersion Trampolean
-description: : une semaine de formation au Lean Startup en immersion pour tester ton projet
+description: : Une formation intensive et immersive au Lean Startup pour tester ton projet
 image_url: https://raw.githubusercontent.com/walkingdev/trampolean/master/media/trampolean-immersion.png
 ---
 
