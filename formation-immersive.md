@@ -1,5 +1,5 @@
 ---
-title: Pour aller plus loin : Immersion Trampolean - une semaine de formation
+title: Pour aller plus loin : Immersion Trampolean
 description: : Une formation intensive et immersive au Lean Startup pour tester ton projet
 image_url: https://raw.githubusercontent.com/walkingdev/trampolean/master/media/trampolean-immersion.png
 ---
