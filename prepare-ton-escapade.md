@@ -1,5 +1,5 @@
 ---
-title: walkindDev trampolean : Prépare ton escapade
+title: walkingDev trampolean : Prépare ton escapade
 description: Une petite exploration ça se prépare, voici une petite liste de ce qui nous parait indispensable (ou pas).
 image_url: https://raw.githubusercontent.com/walkingdev/trampolean/master/media/prepare-ton-escapade.png
 ---
