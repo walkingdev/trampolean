@@ -1,7 +1,7 @@
 ---
 title: faq trampolean V01
 description: Formation lean startup itinérante pour mettre en marche ou tester son projet
-image_url: https://github.com/walkingdev/trampolean.png?raw=true
+image_url: https://github.com/walkingdev/trampolean.png
 ---
 
 # Session TRAMPOLEAN - V-01
@@ -16,7 +16,7 @@ On passe d'une étape à l'autre en changeant d'endroit et on profite du trajet 
 
 ### C'est quand et où ?
 
-La marche commencera le 6 janvier 2017 à 9h au ~~[FairView Café](http://www.openstreetmap.org/node/1347108117) rue Loys~~  
+La marche commencera le 6 janvier 2017 à 9h
 [Café Bun - 5, rue des étuves à Montpellier](http://osm.org/go/xVygEvf3l) - .
 Et, ça se termine vers 18h30.
 
@@ -51,7 +51,7 @@ On a calculé ça en se disant qu’on allait marcher 4 à 6 fois 20 minutes dan
 
 ### Je m'inscris où ?
 
-Les inscriptions, c'est par ici
+[Les inscriptions, c'est par ici] : (https://www.eventbrite.fr/e/billets-formation-lean-startup-itinerante-pour-mettre-en-marche-ou-tester-son-projet-29638759327)
 
 ou en éditant cette page sur Github : [v34-inscriptions.md](https://github.com/walkingdev/elm/edit/master/v34/inscriptions.md) - et en précisant dans quelle ville tu souhaiterais qu'elle se déroule.
 
