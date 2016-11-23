@@ -58,4 +58,5 @@ Penser que tu peux tout faire tout seul. Tu verras que l'impact sera d’autant 
   ** Développe là
   ** Sors de chez toi
   ** Prends l'habitude de te confronter à ton marché au plus vite, c’est ta plus grande ressource
-  ** Apprend de tes utilisateurs, garde le smile, et itère... ou pivote !
+  
+7. Apprend de tes utilisateurs, garde le smile, et itère... ou pivote !
