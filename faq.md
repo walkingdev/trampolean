@@ -1,10 +1,10 @@
 ---
-title: faq trampolean V01
+title: fap walking dev trampolean
 description: Formation lean startup itinérante pour mettre en marche ou tester son projet
-image_url: https://github.com/walkingdev/trampolean.png
+image_url: https://raw.githubusercontent.com/walkingdev/trampolean/master/media/trampolean.png
 ---
 
-# Session TRAMPOLEAN - V-01
+# Session TRAMPOLEAN
 
 ## FAQ
 
@@ -16,7 +16,7 @@ On passe d'une étape à l'autre en changeant d'endroit et on profite du trajet 
 
 ### C'est quand et où ?
 
-La marche commencera le 6 janvier 2017 à 9h
+La marche commencera le 6 janvier 2017 à 9h au 
 [Café Bun - 5, rue des étuves à Montpellier](http://osm.org/go/xVygEvf3l) - .
 Et, ça se termine vers 18h30.
 
@@ -41,7 +41,7 @@ En vrai, on prendra soin de t’accompagner pour que tu puisses explorer avec no
 
 En gros, il te faut ton **laptop**, ta bonne humeur, de l’eau, des noisettes ou des abricots secs et de quoi t’habiller confortablement pour marcher.
 
-Pour le détail on a fait une page spécialement pour ça : [Prépare ton escapade](http://walkingdev.fr/#walkingdev/trampolean/tree/master/prepare-ton-escapade.md)
+Pour le détail on a fait une page spécialement pour ça : [Prépare ton escapade](http://walkingdev.fr/#walkingdev/trampolean/prepare-ton-escapade.md)
 
 ### On marche beaucoup ?
 
@@ -53,7 +53,7 @@ On a calculé ça en se disant qu’on allait marcher 4 à 6 fois 20 minutes dan
 
 [Les inscriptions, c'est par ici] : (https://www.eventbrite.fr/e/billets-formation-lean-startup-itinerante-pour-mettre-en-marche-ou-tester-son-projet-29638759327)
 
-ou en éditant cette page sur Github : [v34-inscriptions.md](https://github.com/walkingdev/elm/edit/master/v34/inscriptions.md) - et en précisant dans quelle ville tu souhaiterais qu'elle se déroule.
+ou en éditant cette page sur Github : [v34-inscriptions.md](https://github.com/walkingdev/inscriptions.md) - et en précisant dans quelle ville tu souhaiterais qu'elle se déroule.
 
 Tu peux aussi nous envoyer un petit mail : [stephane@scopyleft.fr](mailto:stephane@scopyleft.fr)
 
