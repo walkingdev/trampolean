@@ -1,5 +1,5 @@
 ---
-title: faq walkingdev trampolean
+title: Walking-dev trampolean : tout ce qu'il faut savoir
 description: Formation lean startup itinérante pour mettre en marche ou tester son projet
 image_url: https://raw.githubusercontent.com/walkingdev/trampolean/master/media/trampolean.png
 ---
