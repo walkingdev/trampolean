@@ -17,8 +17,7 @@ On passe d'une étape à l'autre en changeant d'endroit et on profite du trajet 
 ### C'est quand et où ?
 
 La marche commencera le 6 janvier 2017 à 9h au 
-[Café Bun - 5, rue des étuves à Montpellier](http://osm.org/go/xVygEvf3l) - .
-Et, ça se termine vers 18h30.
+[Café Bun - 5, rue des étuves à Montpellier](http://osm.org/go/xVygEvf3l) et, ça se termine vers 18h30.
 
 ### C'est pour qui ?
 
@@ -35,7 +34,7 @@ En vrai, on prendra soin de t’accompagner pour que tu puisses explorer avec no
 
 ### On sera combien ?
 
-~~ Au moins 2, maximum 10, probablement 8 ou 6, en fait 9
+Au moins 2, maximum 10, probablement 8 ou 6, en fait 9
 
 ### Il faut que je prévois des trucs ?
 
@@ -51,9 +50,13 @@ On a calculé ça en se disant qu’on allait marcher 4 à 6 fois 20 minutes dan
 
 ### Je m'inscris où ?
 
-[Les inscriptions, c'est par ici] : (https://www.eventbrite.fr/e/billets-formation-lean-startup-itinerante-pour-mettre-en-marche-ou-tester-son-projet-29638759327)
+En éditant cette page sur Github : [v34-inscriptions.md](https://github.com/walkingdev/trampolean/blob/master/faq.md)
 
-ou en éditant cette page sur Github : [v34-inscriptions.md](https://github.com/walkingdev/inscriptions.md) - et en précisant dans quelle ville tu souhaiterais qu'elle se déroule.
+ou
+
+En t'escrivant sur [eventbrite](https://www.eventbrite.fr/e/billets-formation-lean-startup-itinerante-pour-mettre-en-marche-ou-tester-son-projet-29638759327)
+
+ou
 
 Tu peux aussi nous envoyer un petit mail : [stephane@scopyleft.fr](mailto:stephane@scopyleft.fr)
 
@@ -77,7 +80,7 @@ A toi d'imaginer le pourquoi du comment !
 
 #### Et si j'ai une question ?
 
-Tu peux contacter :  
+Tu peux contacter :
+
 - Aurélie - aurelie@flowher.net
-ou  
 - Stéphane - [@langlois_s](http://twitter.com/langlois_s) (dm ouvert) 
