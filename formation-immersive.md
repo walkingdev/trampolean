@@ -1,6 +1,6 @@
 ---
 title: Pour aller plus loin : immersion trampolean
-description: : Une formation intensive et immersive au Lean Startup pour tester ton projet
+description: Une formation intensive et immersive au Lean Startup pour tester ton projet
 image_url: https://raw.githubusercontent.com/walkingdev/trampolean/master/media/trampolean-immersion.png
 ---
 
@@ -8,12 +8,12 @@ image_url: https://raw.githubusercontent.com/walkingdev/trampolean/master/media/
 
 ### Ce que l’on veut te proposer
 
-Retourner ton idée dans tous les sens 
-Assumer ta différence
-Trouver ton problème plus qu’exposer ton idée 
-Te positionner clairement pour comprendre ce qui marche et ce qui ne marche pas
-Aller rencontrer ton marché
-Obtenir un résultat qui te satisfait et apprendre à itérer
+Retourner ton idée dans tous les sens  
+Assumer ta différence  
+Trouver ton problème plus qu’exposer ton idée  
+Te positionner clairement pour comprendre ce qui marche et ce qui ne marche pas  
+Aller rencontrer ton marché  
+Obtenir un résultat qui te satisfait et apprendre à itérer  
 
 ### Ce que l’on oublie pour mieux créer
 
