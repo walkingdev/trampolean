@@ -1,6 +1,6 @@
 ---
-title: Pour aller plus loin : immersion trampolean
-description: Une formation intensive et immersive au Lean Startup pour tester ton projet
+title: De zéro à ses 42 premiers utilisateurs 
+description: Une immersion au Lean Startup pour valider ton projet
 image_url: https://raw.githubusercontent.com/walkingdev/trampolean/master/media/trampolean-immersion.png
 ---
 
@@ -26,37 +26,42 @@ image_url: https://raw.githubusercontent.com/walkingdev/trampolean/master/media/
 
 1. Ne le garde pas pour toi
   * Confronte ton idée au groupe et apprend à créer de l'intérêt
-  * Documente ton projet en réalisant ton Lean Canva
-  * Teste l'écriture collaboative pour rédiger un questionnaire
-  * Créé un questionnaire en ligne via Typepad par exemple et envoie-le pour mieux comprendre les besoins utilisateurs
+  * Pose de nouvelles pistes en utilisant le Lean Canvas
+  * Imagine les problèmes de tes utilisateurs
+  
+2. Part à la découverte de tes premiers clients
+ * Sors de chez toi !
+ * Rencontre et interview tes futurs utilisateurs.
+ * Adapte tes plans en récoltant du feedback.
   
 2. Cherche les avocats du diable
-  ** Apprend à recevoir des "feedback", laisse parler, surtout les sceptiques !
-  ** Apprend à poser les bonnes questions au bon moment
-  ** Développe un produit que tu utiliserais personnellement
+  * Apprends à recevoir des "feedback", laisse parler, surtout les sceptiques !
+  * Apprends à poser les bonnes questions au bon moment
+  * Développe un produit que tu utiliserais personnellement
+  * Teste l'écriture collaborative pour rédiger le squelette des interviews
   
 3. Teste ton idée
-  ** Pitch ton idée dans la rue, et dans différents lieux insolites. Toute occasion est bonne.
-  ** Dessine à la main (même si tu ne sais pas dessiner !) ou design le via un outil de mockup
-  ** Montre-le à un max de personnes
+  * Valide ton idée dans la rue, et dans différents lieux insolites. Toute occasion est bonne.
+  * Dessine à la main (même si tu ne sais pas dessiner !) ou design le via un outil de mockup
+  * Montre-le à un max de personnes
   
 4. Créé une landing page
-  ** Affine ton message, teste-le et itère via une landing page sur Strikingly, Github, Square...
-  ** Apprends à coder. Au moins les bases de l'html, du css et du javascript pour être autonome
-  ** Réserve un nom de domaine et paramètre une redirection
-  ** Analyse les résultats des visiteurs de ta page : google analytics, mixpanels
+  * Affine ton message, teste-le et itère via une landing page sur Strikingly, Github, Square...
+  * Apprends à coder. Au moins les bases de l'html, du css et du JavaScript pour être autonome
+  * Réserve un nom de domaine et paramètre une redirection
+  * Analyse les résultats des visiteurs de ta page : analytics, mixpanels
   
 5. Trouve tes premiers utilisateurs en te demandant « qui d’autre a ce problème ? » et interroge-les
-  ** Fais de la veille sur Twitter et organise-là via Tweetdeck
-  ** Rédige tes interviews en écriture collaborative via Github, Framapad...
-  ** Réalise des interview ciblés en personne à 2 (scrib et interviewer)
-  ** Analyse les résultats d'interview et créé des "personas" types ayant un besoin précis
-  ** Créé une communauté ciblée via les réseaux sociaux
+  * Fais de la veille sur Twitter et organise-là via Tweetdeck
+  * Rédige tes interviews en écriture collaborative via Github, Framapad...
+  * Réalise des interviews ciblées.
+  * Analyse les résultats d'interviews et créé des "personas" types ayant un besoin précis
+  * Créé une communauté ciblée via les réseaux sociaux
   
 6. Créé ton Produit Minimum Viable "MVP" et teste le asap
-  ** Choisis une seule fonctionnalité
-  ** Développe là
-  ** Sors de chez toi
-  ** Prends l'habitude de te confronter à ton marché au plus vite, c’est ta plus grande ressource
+  * Choisis une seule fonctionnalité
+  * Développe-là
+  * Sors de chez toi !
+  * Prends l'habitude de te confronter à tes clients au plus vite, c’est ta meilleure ressource
   
-7. Apprend de tes utilisateurs, garde le smile, et itère... ou pivote !
+7. Apprends de tes utilisateurs, garde le smile, et itère... ou pivote !
