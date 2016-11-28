@@ -8,27 +8,27 @@ image_url: https://raw.githubusercontent.com/walkingdev/trampolean/master/media/
 
 ### Ce que l’on veut te proposer
 
-Retourner ton idée dans tous les sens  
-Assumer ta différence  
-Trouver ton problème plus qu’exposer ton idée  
-Te positionner clairement pour comprendre ce qui marche et ce qui ne marche pas  
-Aller rencontrer ton marché  
-Obtenir un résultat qui te satisfait et apprendre à itérer  
+* Retourner ton idée dans tous les sens
+* Assumer et cultiver ta différence  
+* Trouver ton problème plus qu’exposer ton idée  
+* Te positionner clairement pour comprendre ce qui marche et ce qui ne marche pas  
+* Aller rencontrer tes premiers clients  
+* Obtenir un premier résultat et apprendre à itérer  
 
 ### Ce que l’on oublie pour mieux créer
 
-Les plans de financement prédictifs à 5 ans ! ...même à 1 an, c'est hypothétique. Seul tester des modèles a du sens...
-Les dépenses en publicité. Ton idée doit ramener organiquement des personnes intéressées...
-La peur qu’un grand groupe te copie. Seule ton agilité te rendra invincible...
-Penser que tu peux tout faire tout seul. Tu verras que l'impact sera d’autant plus fort avec le support de facilitateurs et d’autres porteurs de projets
+* Les plans de financement à 5 ans ! Même à 1 an, c'est hypothétique. Seul tester des modèles a du sens.
+* Les dépenses en publicité. Ton idée doit ramener organiquement des personnes intéressées.
+* La peur qu’un grand groupe te copie. Seule ton agilité te rendra invincible.
+* Penser que tu peux tout faire tout seul. Tu verras que l'impact sera d’autant plus fort avec le support de facilitateurs et d’autres porteurs de projets
 
 ### 7 règles introduisant comment on aimerait explorer ensemble
 
 1. Ne le garde pas pour toi
-  ** Confronte ton idée au groupe et apprend à créer de l'intérêt
-  ** Documente ton projet en réalisant ton Lean Canva
-  ** Teste l'écriture collaboative pour rédiger un questionnaire
-  ** Créé un questionnaire en ligne via Typepad par exemple et envoie-le pour mieux comprendre les besoins utilisateurs
+  * Confronte ton idée au groupe et apprend à créer de l'intérêt
+  * Documente ton projet en réalisant ton Lean Canva
+  * Teste l'écriture collaboative pour rédiger un questionnaire
+  * Créé un questionnaire en ligne via Typepad par exemple et envoie-le pour mieux comprendre les besoins utilisateurs
   
 2. Cherche les avocats du diable
   ** Apprend à recevoir des "feedback", laisse parler, surtout les sceptiques !
