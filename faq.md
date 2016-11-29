@@ -1,6 +1,6 @@
 ---
 title: walkingDev trampolean : tout ce qu'il faut savoir
-description: Formation lean startup itinérante pour mettre en marche ou tester son projet
+description: Exploration lean startup itinérante pour mettre en marche ou tester son projet
 image_url: https://raw.githubusercontent.com/walkingdev/trampolean/master/media/trampolean.png
 ---
 
@@ -17,14 +17,14 @@ On passe d'une étape à l'autre en changeant d'endroit et on profite du trajet 
 ### C'est quand et où ?
 
 La marche commencera le 6 janvier 2017 à 9h au 
-[Café Bun - 5, rue des étuves à Montpellier](http://osm.org/go/xVygEvf3l) et, ça se termine vers 18h30.
+[Fairview - Rue de Loys](http://www.openstreetmap.org/node/1347108117) et, ça se termine vers 18h30.
 
 ### C'est pour qui ?
 
-- Les personnes portant un projet et souhaitant le confronter
-- Les entrepreneurs ayant besoin de feedback ou de tester leur projet
-- Les développeuses et développeurs souhaitant chatouiller le paradigme fonctionnel sans se brûler.
-- Les curieux et curieuses kiffant découvrir l'agilité en se baladant dans la cité.
+- Les managers souhaitant valider la faisabilité et l'opportunité d'idées innovantes au sein de leur entreprise
+- Les porteurs de projets ayant besoin de feedback ou de tester leur projet
+- Les développeuses et développeurs souhaitant convertir leurs idées techniques en besoins utilisateurs.
+- Les curieux et curieuses kiffant découvrir la culture lean/agile en se baladant dans la cité.
 
 ### Je ne me sens pas au niveau…
 
@@ -34,7 +34,7 @@ En vrai, on prendra soin de t’accompagner pour que tu puisses explorer avec no
 
 ### On sera combien ?
 
-Au moins 2, maximum 10, probablement 8 ou 6, en fait 9
+Au moins 2, maximum 10, probablement 8 ou 6.
 
 ### Il faut que je prévois des trucs ?
 
@@ -63,8 +63,6 @@ Tu peux aussi nous envoyer un petit mail : [stephane@scopyleft.fr](mailto:stepha
 ### Ça coûte combien cette petite escapade ?
 
 49 € TTC pour les particuliers, et 69 € si c’est ta boite qui paye.
-
-On pense que ça correspond à peu près à ce que tu vas manger, boire, et aux billets qui te permettront de te déplacer sans frauder.
 
 ### Et si c’est trop cher pour moi ?
 
