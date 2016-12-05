@@ -10,8 +10,8 @@ image_url: https://raw.githubusercontent.com/walkingdev/trampolean/master/media/
 
 ### On va faire quoi ?
 
-L'idée est de découvrir la culture et les outils lean startup pour tester son produit.
-Dans un lieu insolite, en itinérance, en binôme ou en groupe on explore son projet, via des petits ateliers, présentations, questionnements ou autres expérimentations.
+L'idée est de découvrir la culture, les outils lean startup pour tester son produit et de repartir avec son Lean Canvas.
+Dans un lieu insolite, en itinérance, en binôme ou en groupe on explore son projet, via un atelier lean canvas, puis en confrontant son marché via des questionnements et autres expérimentations.
 On passe d'une étape à l'autre en changeant d'endroit et on profite du trajet pour débriefer sur la session que l'on vient de faire.
 
 ### C'est quand et où ?
@@ -26,15 +26,9 @@ La marche commencera le 6 janvier 2017 à 9h au
 - Les développeuses et développeurs souhaitant convertir leurs idées techniques en besoins utilisateurs.
 - Les curieux et curieuses kiffant découvrir la culture lean/agile en se baladant dans la cité.
 
-### Je ne me sens pas au niveau…
-
-T’inquiète pas, nous non plus ;)
-
-En vrai, on prendra soin de t’accompagner pour que tu puisses explorer avec nous sans être largué.
-
 ### On sera combien ?
 
-Au moins 2, maximum 10, probablement 8 ou 6.
+Au moins 2, maximum 10, probablement 8 ou 6 !
 
 ### Il faut que je prévois des trucs ?
 
@@ -50,27 +44,23 @@ On a calculé ça en se disant qu’on allait marcher 4 à 6 fois 20 minutes dan
 
 ### Je m'inscris où ?
 
-En éditant cette page sur Github : [v34-inscriptions.md](https://github.com/walkingdev/trampolean/blob/master/faq.md)
+En éditant cette page sur Github : [inscriptions.md](https://github.com/walkingdev/trampolean/blob/master/faq.md)
 
 ou
 
-En t'escrivant sur [eventbrite](https://www.eventbrite.fr/e/billets-formation-lean-startup-itinerante-pour-mettre-en-marche-ou-tester-son-projet-29638759327)
+En t'inscrivant sur [eventbrite](https://www.eventbrite.fr/e/billets-formation-lean-startup-itinerante-pour-mettre-en-marche-ou-tester-son-projet-29638759327)
 
 ou
 
-Tu peux aussi nous envoyer un petit mail : [stephane@scopyleft.fr](mailto:stephane@scopyleft.fr)
+Tu peux aussi nous envoyer un petit mail : [stephane@scopyleft.fr](mailto:stephane@scopyleft.fr) ou [aurelie@flowher.net](mailto:aurelie@flowher.net)
 
 ### Ça coûte combien cette petite escapade ?
 
-49 € TTC pour les particuliers, et 69 € si c’est ta boite qui paye.
+49 € TTC pour les particuliers, et 69 € si c’est ta boite qui paye (à noter qu'un peu d'argent de poche est à prévoir pour payer les cafés et snacks au fil de la journée.
 
 ### Et si c’est trop cher pour moi ?
 
-Ne te prive pas de cette super journée pour des problèmes matériels, contacte-nous, ensemble on va bien trouver une solution ? 
-
-### On mangera quoi ?
-
-Rien n'est décidé pour l'instant. Si tu manges sans gluten, que tu es végétalien ou avec des restrictions alimentaires, préviens nous.
+Ne te prive pas de cette super journée pour des problèmes matériels, contacte-nous, ensemble on va bien trouver une solution.
 
 ### Pourquoi Trampolean ?
 
@@ -81,4 +71,4 @@ A toi d'imaginer le pourquoi du comment !
 Tu peux contacter :
 
 - Aurélie - aurelie@flowher.net
-- Stéphane - [@langlois_s](http://twitter.com/langlois_s) (dm ouvert) 
+- Stéphane - stephane@scopyleft.fr
