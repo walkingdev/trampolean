@@ -10,25 +10,34 @@ image_url: https://raw.githubusercontent.com/walkingdev/trampolean/master/media/
 
 ### On va faire quoi ?
 
-L'idée est de découvrir la culture, les outils lean startup pour tester son produit et de repartir avec son Lean Canvas.
-Dans un lieu insolite, en itinérance, en binôme ou en groupe on explore son projet, via un atelier lean canvas, puis en confrontant son marché via des questionnements et autres expérimentations.
-On passe d'une étape à l'autre en changeant d'endroit et on profite du trajet pour débriefer sur la session que l'on vient de faire.
+L'intention de la journée est de découvrir la culture et les outils "Lean Startup".
+Vous testerez plusieurs projets pour comprendre les étapes et les intégrer.
+Vous repartirez avec votre "Lean Canvas" à la fin de la journée.
+Dans des lieux insolites, en itinérance, en binôme ou en groupe on explore son projet, via un atelier "Lean Canvas", puis on confronte son marché via des interviews et autres expérimentations.
+On passe d'une étape à l'autre en changeant d'endroit.
+En mouvement, on profite du trajet pour débriefer sur la session que l'on vient de faire.
 
 ### C'est quand et où ?
 
-La marche commencera le 6 janvier 2017 à 9h au 
-[Fairview - Rue de Loys](http://www.openstreetmap.org/node/1347108117) et, ça se termine vers 18h30.
+La marche commencera le 2 février 2017 à 9h au 
+[Fairview - Rue de Loys](http://www.openstreetmap.org/node/1347108117).
+La journée se termine vers 18h30.
 
 ### C'est pour qui ?
 
-- Les managers souhaitant valider la faisabilité et l'opportunité d'idées innovantes au sein de leur entreprise
-- Les porteurs de projets ayant besoin de feedback ou de tester leur projet
-- Les développeuses et développeurs souhaitant convertir leurs idées techniques en besoins utilisateurs.
-- Les curieux et curieuses kiffant découvrir la culture lean/agile en se baladant dans la cité.
+- Les personnes portant un projet et souhaitant le confronter
+- Les entrepreneurs ayant besoin de feedback ou de tester une idée
+- Les Startupers ayant besoin de prendre du recul sur leur projet et valider leur problématique
+- les chefs de projet et managers souhaitant découvrir une nouvelle approche innovante à appliquer aux projets de leur organisation
+- Les développeuses et développeurs souhaitant valider leur problématique et se confronter au terrain
+- Les curieux et curieuses kiffant découvrir l'agilité en se baladant dans la cité.
+- Ceux qui connaissent déjà l'approche viendront pour découvrir un autre point de vue, et gagner en expérience
+
+NB : plus on pratique le "Lean", plus l'on a de bons réflexes d'entrepreneurs innovants.
 
 ### On sera combien ?
 
-Au moins 2, maximum 10, probablement 8 ou 6 !
+Au moins 2, maximum 10, probablement 7 ou 8 !
 
 ### Il faut que je prévois des trucs ?
 
@@ -38,9 +47,9 @@ Pour le détail on a fait une page spécialement pour ça : [Prépare ton escapa
 
 ### On marche beaucoup ?
 
-Une dizaine de kilomètres dans la journée.
+Une dizaine de kilomètres max dans la journée.
 
-On a calculé ça en se disant qu’on allait marcher 4 à 6 fois 20 minutes dans la journée.
+On a calculé ça en se disant qu’on allait marcher 4 à 6 fois 15 min dans la journée.
 
 ### Je m'inscris où ?
 
@@ -56,7 +65,7 @@ Tu peux aussi nous envoyer un petit mail : [stephane@scopyleft.fr](mailto:stepha
 
 ### Ça coûte combien cette petite escapade ?
 
-49 € TTC pour les particuliers, et 69 € si c’est ta boite qui paye (à noter qu'un peu d'argent de poche est à prévoir pour payer les cafés et snacks au fil de la journée.
+69 € (à noter que ce prix inclue le déjeuner, les boissons et collations sur la journée soit un budget entre 30 et 40€/pers).
 
 ### Et si c’est trop cher pour moi ?
 
