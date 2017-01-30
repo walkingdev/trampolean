@@ -53,7 +53,7 @@ On a calculé ça en se disant qu’on allait marcher 4 à 6 fois 15 min dans la
 
 ### Je m'inscris où ?
 
-En éditant cette page sur Github : [inscriptions.md](https://github.com/walkingdev/trampolean/blob/master/faq.md)
+En éditant cette page sur Github : [inscriptions.md](https://github.com/walkingdev/trampolean/blob/master/inscriptions.md)
 
 ou
 
