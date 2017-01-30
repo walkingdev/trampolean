@@ -1,7 +1,7 @@
 ---
 title: De zéro à ses 42 premiers utilisateurs 
 description: Une immersion au Lean Startup pour valider ton projet
-image_url: https://raw.githubusercontent.com/walkingdev/trampolean/master/media/trampolean-immersion.png
+image_url:
 ---
 
 # Immersion TRAMPOLEAN
