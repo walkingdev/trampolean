@@ -14,5 +14,4 @@ Ou utilise ce service [inscription](https://www.eventbrite.fr/e/billets-formatio
 
 * nom - prénom - mail - tél
 * Le Guillou - Aurélie - aurelie@flowher.net - 06.07.02.15.56
-* Langlois - Stéphane - stéphane@scopyleft.fr
-* Fuentes - Loïc - fuentes.loic@gmail.com - 06.26.91.57.46 - @fuentes_loic
+* Langlois - Stéphane - stephane@scopyleft.fr
