@@ -1,7 +1,7 @@
 ---
 title: Inscriptions walkingDev trampolean
 description: Liste pour s'inscrire à la session wallking-dev Tramolean
-image_url: https://raw.githubusercontent.com/walkingdev/trampolean/master/media/inscription.png
+image_url:
 ---
 
 
