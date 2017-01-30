@@ -1,7 +1,7 @@
 ---
 title: walkingDev trampolean : tout ce qu'il faut savoir
 description: Exploration lean startup itinérante pour mettre en marche ou tester son projet
-image_url: https://raw.githubusercontent.com/walkingdev/trampolean/master/media/trampolean.png
+image_url:
 ---
 
 # Session TRAMPOLEAN
