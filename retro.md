@@ -1,12 +1,18 @@
 
-***Rétrospective du premier Walking dev Trampolean à Montpellier
+---
+title: Rétrospective premier Trampolean Montpellier 
+description: Une journée itinérante pour tester son projet via l'approche Lean Startup et découvrir des lieux insolites à Montpellier
+image_url:
+---
+
+#Rétrospective du premier Walking dev Trampolean à Montpellier
 
 10 personnes étaient présentes : 8 participants + 2 facilitateurs pour un prix à la journée de 69€ incluant toutes les consommations de la journée.
 5 lieux différents ont été explorés sur la journée. 
 La consommation moyenne/personne est de 38,50€
 
 
-**Ce qui était bien
+##Ce qui était bien
 *Le rythme lié à l'itinérance proposé à travers différents lieux de Montpellier
 *La interactions du groupe formé dans le cadre d'une telle facilitation
 *Le travail de groupe sur un exemple commun qui ne soit pas un exemple fictif pour autant et qui soit facile à traiter. Dans le cas de ce premier walking dev, nous sommes partis sur la problématique de la garde d'enfants en dernière minute. 
@@ -21,7 +27,7 @@ La consommation moyenne/personne est de 38,50€
 *L'évolution de certains participants sur la journée (arrivés septiques le matin, avec des résistances et se libérant tant dans la parole qu'enterme de pro-activité au cours de la journée)
 
 
-**Ce qui peut être mieux
+##Ce qui peut être mieux
 
 *Appuyer nos discours d'encore plus d'exemples pour parler moins, mais imager plus
 *Se détacher encore plus du rôle de tranmsission poour faciliter la transmission de participants plus avancés que d'autres ayant la volonté de se tester en transmettant leur expérience aux novices.
@@ -33,7 +39,7 @@ La consommation moyenne/personne est de 38,50€
 *Poser un cadre en début de journée indiquant que c'est un introduction dans le but d'aller plus loin par de la pratique ou une approche immersive de travail sur des projets
 
 
-**What’s next
+##What’s next
 *Envoyer un mail de remerciement au groupe avec le bouquin running lean + groupe slack à proposer
 *Proposer des interviews "solution" pour tester le pricing d'une immersion de 4j
 *Poser une date à Toulouse et ailleurs...
