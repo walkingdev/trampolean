@@ -1,7 +1,7 @@
 ---
 title: Inscriptions walkingDev trampolean
 description: Liste pour s'inscrire à la session walking-dev Trampolean
-image_url:
+image_url: https://raw.githubusercontent.com/walkingdev/trampolean/master/media/walkingdev.jpg
 ---
 
 
