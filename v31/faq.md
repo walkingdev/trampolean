@@ -19,7 +19,7 @@ En mouvement, on profite du trajet pour débriefer sur la session que l'on vient
 
 ### C'est quand et où ?
 
-La marche commencera le 10 mars 2017 à 9h au 
+La marche commencera le 17 mars 2017 à 9h au 
 [café cerise, 4 quai de la Daurade – Toulouse](http://www.openstreetmap.org/node/1775896013).
 La journée se termine vers 18h00.
 
@@ -41,9 +41,9 @@ Au moins 2, maximum 10, probablement 7 ou 8 !
 
 ### Il faut que je prévois des trucs ?
 
-En gros, il te faut ton **laptop**, ta bonne humeur, de l’eau, des noisettes ou des abricots secs et de quoi t’habiller confortablement pour marcher.
+En gros, il te faut ta bonne humeur, de l’eau, des noisettes ou des abricots secs et de quoi t’habiller confortablement pour marcher.
 
-Pour le détail on a fait une page spécialement pour ça : [Prépare ton escapade](http://walkingdev.fr/#walkingdev/trampolean/v31/prepare-ton-escapade.md)
+Pour le détail on a fait une page spécialement pour ça : [Prépare ton escapade](http://walkingdev.fr/#walkingdev/trampolean/blob/master/v31/prepare-ton-escapade.md)
 
 ### On marche beaucoup ?
 
