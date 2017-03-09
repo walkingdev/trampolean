@@ -17,6 +17,8 @@ Dans des lieux insolites, en itinérance, en binôme ou en groupe on explore son
 On passe d'une étape à l'autre en changeant d'endroit.
 En mouvement, on profite du trajet pour débriefer sur la session que l'on vient de faire.
 
+Ça reste pas clair pour toi ? Consulte le [témoignage de Julia](https://medium.com/@julia.barbelane/walking-dev-ou-comment-apprendre-en-itin%C3%A9rance-426acb12e024#.p8fp722a8) sur notre dernière escapade.
+
 ### C'est quand et où ?
 
 La marche commencera le 17 mars 2017 à 9h au 
