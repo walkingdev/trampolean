@@ -29,7 +29,7 @@ description: Une journée itinérante pour tester son projet via l'approche Lean
 
 ## Ce qui peut être mieux
 - Appuyer nos discours d'encore plus d'exemples pour parler moins, mais imager plus
-- Se détacher encore plus du rôle de tranmsission poour faciliter la transmission de participants plus avancés que d'autres ayant la volonté de se tester en transmettant leur expérience aux novices.
+- Se détacher encore plus du rôle de transmission pour faciliter la transmission de participants plus avancés que d'autres ayant la volonté de se tester en transmettant leur expérience aux novices.
 - Proposer de nouvelles formes pédagogiques. Tester une approche différente la prochaine fois pour expérimenter et apprendre d'approches pédagogiques innovantes
 - Proposer des jeux/challenges (en s'inspirant par exemple de l'empathy game)
 - Préparer un peu plus, par exemple en répétant la veille pour le choix des lieux et pour annoncer aux propriétaires la venue du groupe.
