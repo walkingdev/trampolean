@@ -15,3 +15,4 @@ Ou utilise ce service [inscription](https://www.eventbrite.fr/e/billets-journee-
 * nom - prénom - mail - tél
 * Le Guillou - Aurélie - aurelie@flowher.net - 06.07.02.15.56
 * Langlois - Stéphane - stephane@scopyleft.fr
+* Hitier - Richard - hitier.richard@gmail.com
