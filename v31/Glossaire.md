@@ -1,0 +1,10 @@
+- Échec => Gamelle
+- Cible => Utilisateurs
+- Channels => Diffusion
+- UVP => Phare de la promesse
+- Interviews => questionné
+- Unfair Advantages => Phare de la singularité
+- Startup => service
+- Innovation => 
+- Customer segment => Tribu
+- MVP => 
