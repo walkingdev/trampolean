@@ -22,7 +22,7 @@ En mouvement, on profite du trajet pour débriefer sur la session que l'on vient
 ### C'est quand et où ?
 
 La marche commencera le 17 mars 2017 à 9h au 
-[café cerise, 4 quai de la Daurade – Toulouse](http://www.openstreetmap.org/node/1775896013).
+[Brolenda](https://www.facebook.com/Brolenda-coffee-shop-1240351455993553/), [28 rue Joseph Lakanal – Toulouse](http://www.openstreetmap.org/node/2465994189).
 La journée se termine vers 18h00.
 
 ### C'est pour qui ?
