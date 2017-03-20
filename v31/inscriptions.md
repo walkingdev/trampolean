@@ -19,3 +19,5 @@ Ou utilise ce service [inscription](https://www.eventbrite.fr/e/billets-journee-
 * Trégan - Fabien
 * Lenoir - Maïtané
 * Benoist - Denis
+* Aubry - Claude
+* ... - Eric
