@@ -15,6 +15,7 @@ image_url:
 ## À rebosser
 * La collaboration Stéphane-Aurélie
 * La baisse d'énergie en début d'aprèm
+* L'utilisation de Github
 
 ## Indéterminé
 * Le pitch sacré dans l'église
