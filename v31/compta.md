@@ -9,9 +9,9 @@ description: Compta du Trampolean Toulouse
 
 - Fabien : en attente paiement (89€ avec facture)
 - Denis et son associé : 89€x2
-- Richard : 
-- Maitané : 69 €
-- Claude (présente jusque 11h)
+- Richard : 69€ ?
+- Maitané : 69€
+- Claude (présent jusque 11h)
 
 
 Ce qui fait un total de 405€(si tout payé)
@@ -29,6 +29,6 @@ et une moyenne de 30€/personne sans inclure les n’autres
 ou 21,50€/personne incluant les facilitateurs 
 
 Pour ce qui est des frais logistiques : 
-- Train : 44€ + 
+- Train : 44€ A/R Aurélie + 
 - Achats post its... : 
 
